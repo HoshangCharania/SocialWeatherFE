@@ -83,7 +83,7 @@
   Does the internet usage affect the stocks?
   <small class="text-muted">A brief analysis</small>
 </h3>
-         <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=3&orgId=1&tab=display&from=-315601200000&to=1522702264565&theme=light" width="100%" height="100%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&from=-315601200000&to=1325394000000&panelId=3&theme=light" width="100%" height="100%" frameborder="0"></iframe>
 </div>
     <!-- Page Content -->
     <section class="py-5">
@@ -105,7 +105,7 @@
     <div class="check1">
     
     
-    <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=5&orgId=1&from=694242000000&to=1325394000000&tab=metrics&theme=light" width="100%" height="80%" frameborder="0"></iframe>
+    <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=5&from=-315601200000&to=1325394000000&theme=light" width="100%" height="80%" frameborder="0"></iframe>
       </div>
     <div class="check">
     
@@ -113,7 +113,7 @@
   Stocks
   <small class="text-muted">1994-2003</small>
 </h3>
-         <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=4&orgId=1&tab=general&from=694242000000&to=1041397200000&theme=light" width="100%" height="100%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=4&from=-315601200000&to=1325394000000&theme=light" width="100%" height="100%" frameborder="0"></iframe>
 </div>
 <section class="py-5">
       <div class="container">
@@ -139,8 +139,8 @@
   DJIA vs internet
   <small class="text-muted">1992-2010</small>
 </h3>
-         <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=6&orgId=1&from=694242000000&to=1325394000000&tab=time%20range&theme=light" width="100%" height="50%" frameborder="0"></iframe>
-         <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=7&orgId=1&from=694242000000&to=1325394000000&tab=metrics&theme=light" width="100%" height="50%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=6&from=-315601200000&to=1325394000000&theme=light" width="100%" height="50%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=7&from=-315601200000&to=1325394000000&theme=light" width="100%" height="50%" frameborder="0"></iframe>
 </div>
 <section class="py-5">
       <div class="container">

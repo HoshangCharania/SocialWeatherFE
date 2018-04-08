@@ -83,7 +83,7 @@
   Different attacks over the years
   <small class="text-muted">With a brief summary</small>
 </h3>
-          <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=1&orgId=1&tab=general&from=-315601200000&to=1522702264565&theme=light" width="100%" height="100%" frameborder="0"></iframe>
+          <iframe src="http://35.196.5.194:3000/d-solo/k8oMe-iik/social-weather?panelId=1&orgId=1&tab=metrics&from=-315601200000&to=1325394000000&theme=light" width="100%" height="100%" frameborder="0"></iframe>
 </div>
     <!-- Page Content -->
     <section class="py-5">
@@ -105,7 +105,7 @@
     <div class="check1">
     
     
-    <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=2&orgId=1&tab=general&from=-315601200000&to=1522702264565&theme=light" id="tabgeo" width="100%" height="100%" frameborder="0"></iframe>
+    <iframe src="http://35.196.5.194:3000/d-solo/k8oMe-iik/social-weather?panelId=2&orgId=1&from=-315601200000&to=1325394000000&theme=light" id="tabgeo" width="100%" height="100%" frameborder="0"></iframe>
       </div>
     <br>
     <br>
