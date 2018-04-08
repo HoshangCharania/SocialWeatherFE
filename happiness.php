@@ -83,7 +83,7 @@
   How happy can the internet make you?
   <small class="text-muted">Not that happy.</small>
 </h3>
-         <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=8&orgId=1&from=-315601200000&to=1325394000000&tab=display&theme=light" width="100%" height="100%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=8&from=-315601200000&to=1325394000000y&theme=light" width="100%" height="100%" frameborder="0"></iframe>
 </div>
     <!-- Page Content -->
     <section class="py-5">
@@ -105,7 +105,7 @@
     <div class="check">
     
     
-    <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=9&orgId=1&from=-315601200000&to=1325394000000&tab=options&theme=light" width="100%" height="60%" frameborder="0"></iframe>
+    <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=9&from=-315601200000&to=1325394000000&theme=light" width="100%" height="60%" frameborder="0"></iframe>
       </div>
       <section class="py-5">
       <div class="container">
@@ -123,7 +123,7 @@
     <div class="check1">
     
     
-    <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=5&orgId=1&from=694242000000&to=1325394000000&tab=metrics&theme=light" width="100%" height="80%" frameborder="0"></iframe>
+    <iframe src="ttp://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=5&from=-315601200000&to=1325394000000&theme=light" width="100%" height="80%" frameborder="0"></iframe>
       </div>
     <div class="check">
     <br>
@@ -134,8 +134,8 @@
   <small class="text-muted">1990-2010</small>
 </h3>
         
-         <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?panelId=10&orgId=1&from=-315601200000&to=1325394000000&tab=general&theme=light" width="100%" height="50%" frameborder="0"></iframe>
-        <iframe src="http://localhost:3000/dashboard-solo/db/new-dashboard-copy?orgId=1&from=-315601200000&to=1325394000000&panelId=11&theme=light" width="100%" height="50%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=10&from=-315601200000&to=1325394000000&theme=light" width="100%" height="50%" frameborder="0"></iframe>
+        <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=11&from=-315601200000&to=1325394000000&theme=light" width="100%" height="50%" frameborder="0"></iframe>
         <p></p>
 </div> 
       
