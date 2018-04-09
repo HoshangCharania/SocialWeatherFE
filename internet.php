@@ -70,6 +70,11 @@
               <a class="nav-link" href="#">Internet Usage</a>
               <span class="sr-only">(current)</span>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="data.html">Data Sources</a>
+            <li class="nav-item">
+              <a class="nav-link" href="team.html">Team</a>
+            </li>
           </ul>
         </div>
       </div>
