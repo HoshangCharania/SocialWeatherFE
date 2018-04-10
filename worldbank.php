@@ -80,33 +80,29 @@
       </div>
     </nav>
 
+    <!-- menu header -->
 <div class="check">
-    <br>
-    <br>
-    <br>
-    <h3>
   An overview of worldbank data
   <small class="text-muted">A brief summary</small>
 </h3>
 <iframe src="http://localhost:3000/dashboard-solo/db/normalized?orgId=1&from=-315601200000&to=1523298785807&theme=light&panelId=1" width="100%" height="100%" frameborder="0"></iframe>
 </div>
     <!-- Page Content -->
-    <section class="py-5">
-        <br>
-        <br>
-        <br>
-        <p>
-        </p>
+<p>
         <h1>Worldbank Table</h1>
-        <p>The worldbank dataset contains 41 variables and each variables have its own functions.
-          </p>
+        <h2>The worldbank dataset contains 41 variables and each variables have its own functions.</h2>
 <h3>
   Want to see a a detailed table of how energy use changed over these years?
 </h3>
-
      </section>
+   </p>
 <iframe src="http://localhost:3000/dashboard-solo/db/co2-and-electric-use?orgId=1&panelId=1&from=-315601200000&to=1523335046215&theme=light" width=100% height=100% frameborder="0"></iframe>
 
+<p>
+</section>
+  <iframe src="http://localhost:3000/dashboard-solo/db/agriculture-and-gdp-comparsion?orgId=1&panelId=1&from=-315601200000&to=1523336643097&theme=light" width=100% height=100% frameborder="0"></iframe>
+<h4>conculsion: The trend of algriculture has a positive correlation with gpd growth rate</h4>
+</p>
 
   </body>
 
