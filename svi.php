@@ -89,7 +89,7 @@ h1{
 
 <div class="navbar">
   <a href="index.php">Home</a>
-  <a href="terrorism.php">Terrorism</a>
+  <a href="#">check</a>
   <a href="#news">World Bank data</a>
   <div class="dropdown">
     <button class="dropbtn">Stocks 

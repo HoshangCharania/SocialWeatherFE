@@ -89,7 +89,6 @@ h1{
 
 <div class="navbar">
   <a href="#home">Home</a>
-  <a href="#news">Terrorism</a>
   <a href="#news">World Bank data</a>
   <div class="dropdown">
     <button class="dropbtn">Stocks 

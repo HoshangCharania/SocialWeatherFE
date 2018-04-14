@@ -58,7 +58,7 @@
               <a class="nav-link" href="#">Stocks</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="terrorism.php">Terrorism</a>
+              <a class="nav-link" href="#">Check</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">World Bank Data</a>
