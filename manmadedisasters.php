@@ -55,14 +55,14 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Stocks</a>
+              <a class="nav-link" href="adbms">Stocks</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="#Terrorism">Terrorism</a>
+              <a class="nav-link" href="manmadedisasters.php">Man Made Disasters</a>
                 <span class="sr-only">(current)</span>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">World Bank Data</a>
+              <a class="nav-link" href="worldbank.php">World Bank Data</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="happiness.php">Happiness</a>
