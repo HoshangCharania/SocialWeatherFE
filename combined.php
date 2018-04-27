@@ -161,7 +161,9 @@ function setHeader(xhr) {
     <br>
     <br>
     <h3>
-   Using Tetrad to predict the causality:
+   Using Tetrad to predict the causality:<br>
+        <small>A --- B - There is causal relationship between variable A and B but we cannot determine the direction of the relationship<br>
+A --> B - There is a causal relationship from variable A to B</small><br>
         <small class="text-muted">Hyperparameter: 10<sup>-6</sup></small>
 </h3>
     <br>
@@ -190,6 +192,13 @@ function setHeader(xhr) {
     <br>
     <br>
     <br>   
+    <small class="text-muted">You can access the TETRAD documentation from <a href="https://bd2kccd.github.io/docs/causal-cmd/">here</a>.</small>
+        <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Social Weather Station 2018</p>
+      </div>
+      <!-- /.container -->
+    </footer>
 </div>    
       
 
