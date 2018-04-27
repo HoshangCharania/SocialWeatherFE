@@ -142,7 +142,7 @@
  All the 41 world bank columns:
   <small class="text-muted">Pretty hard to make sense, so just shown the names with the current normalized values.</small>
 </h3>
-         <iframe src="http://35.196.46.176:3000/d-solo/5GFpoCZik/trying-to-do-world-bank?panelId=14&orgId=1&tab=axes&from=631170000000&to=1262322000000" width="100%" height="100%" frameborder="0"></iframe>
+         <iframe src="http://35.196.46.176:3000/d-solo/5GFpoCZik/trying-to-do-world-bank?panelId=14&orgId=1&tab=axes&from=631170000000&to=1262322000000&theme=light" width="100%" height="100%" frameborder="0"></iframe>
 </div>
     <!-- Page Content -->
     <section class="py-5">
