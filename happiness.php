@@ -71,6 +71,9 @@
               <a class="nav-link" href="internet.php">Internet Usage</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="combined.php">All combined</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link" href="data.html">Data Sources</a>
             <li class="nav-item">
               <a class="nav-link" href="team.html">Team</a>
@@ -140,11 +143,10 @@
 </h3>
         
          <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=10&from=-315601200000&to=1325394000000&theme=light" width="100%" height="50%" frameborder="0"></iframe>
-        <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=11&from=-315601200000&to=1325394000000&theme=light" width="100%" height="50%" frameborder="0"></iframe>
+        <iframe src="http://35.196.46.176:3000/d-solo/k8oMe-iik/social-weather?orgId=1&panelId=11&from=-315601200000&to=1325394000000&theme=dark" width="100%" height="50%" frameborder="0"></iframe>
         <p></p>
 </div> 
       
-        
     
     <br>
     <br>
